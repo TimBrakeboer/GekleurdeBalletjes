@@ -6,6 +6,7 @@ class Ball{
     this.height = h;
     this.vx = vx;
     this.vy = vy;
+    this.c = color;
   }
 
   draw(){
