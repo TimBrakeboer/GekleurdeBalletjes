@@ -1,5 +1,5 @@
 class Ball{
-  constructor(x, y, w, h, vx, vy) {
+  constructor(x, y, w, h, vx, vy, color) {
     this.x = x;
     this.y = y;
     this.width = w;
